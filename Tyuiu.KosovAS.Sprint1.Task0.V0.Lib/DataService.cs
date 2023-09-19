@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-namespace Tyuiu.KosovAS.Sprint1.Task0.V0.Lib
+namespace Tyuiu.KosovAS.Sprint1.Task0.V3.Lib
 {
-    public class DataService : ISprint1Task0V0
+    public class DataService : ISprint1Task0V3
     {
+
         public double Calculate()
         {
-            return 10 / (2 + 3);
+            return (6 / 2 * 3) / 9;
         }
     }
 }
+
