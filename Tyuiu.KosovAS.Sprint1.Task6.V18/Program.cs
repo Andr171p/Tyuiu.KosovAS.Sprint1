@@ -21,7 +21,7 @@ namespace Tyuiu.KosovAS.Sprint1.Task6.V18
             Console.WriteLine("* Спринт #1" + String.Concat(Enumerable.Repeat(" ", 63)) + "*");
             Console.WriteLine("* Тема: Работа со строками класс String" + String.Concat(Enumerable.Repeat(" ", 35)) + "*");
             Console.WriteLine("* Задание #6" + String.Concat(Enumerable.Repeat(" ", 62)) + "*");
-            Console.WriteLine("* Вариант #18" + String.Concat(Enumerable.Repeat(" ", 62)) + "*");
+            Console.WriteLine("* Вариант #18" + String.Concat(Enumerable.Repeat(" ", 61)) + "*");
             Console.WriteLine("* Выполнил: Косов Андрей Сергеевич | АСОиУБ-23-3" + String.Concat(Enumerable.Repeat(" ", 26)) + "*");
             Console.WriteLine(String.Concat(Enumerable.Repeat("*", 75)));
             Console.WriteLine("* УСЛОВИЕ:" + String.Concat(Enumerable.Repeat(" ", 64)) + "*");
